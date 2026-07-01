@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#FFF5F8"/>
+  <rect x="60" y="60" width="680" height="880" rx="40" fill="#FFF" stroke="#F2C7D4" stroke-width="6"/>
+  <circle cx="400" cy="310" r="160" fill="#F7D8E3"/>
+  <circle cx="400" cy="284" r="120" fill="#E75480" opacity="0.9"/>
+  <path d="M285 420c42 40 88 60 115 60 31 0 77-23 115-62-12 78-45 145-115 175-62-26-101-95-115-173Z" fill="#FFB3C8"/>
+  <rect x="180" y="630" width="440" height="180" rx="28" fill="#FFD6E5"/>
+  <text x="400" y="735" text-anchor="middle" font-family="Segoe UI, Arial" font-size="46" fill="#8B3A57">Bridal Glow</text>
+</svg>

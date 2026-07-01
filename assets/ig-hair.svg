@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#FFF9FC"/>
+  <rect x="70" y="70" width="660" height="860" rx="40" fill="#FFFFFF" stroke="#F3D3DF" stroke-width="6"/>
+  <path d="M240 300c22-85 83-145 162-145 94 0 172 75 172 175 0 88-60 171-154 204-24 9-54 13-84 13-36 0-70-7-102-20 7-79 8-145 6-227Z" fill="#F6B0C2"/>
+  <path d="M260 355c32 29 65 43 102 43 54 0 91-28 121-74 21 68 3 138-42 191-40 46-87 74-143 74-40 0-71-12-95-31 20-61 34-128 57-203Z" fill="#E75480" opacity="0.9"/>
+  <rect x="170" y="620" width="460" height="170" rx="24" fill="#FFD6E5"/>
+  <text x="400" y="720" text-anchor="middle" font-family="Segoe UI, Arial" font-size="44" fill="#94516A">Hair Styling</text>
+</svg>
